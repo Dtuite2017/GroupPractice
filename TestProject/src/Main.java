@@ -3,5 +3,7 @@ public class Main {
         System.out.println("Test application for Learning GIT");
         System.out.println("Polite was here !!");
 
+        System.out.println("Carol");
+
     }
 }
